@@ -1,0 +1,6 @@
+{
+  "name": "Chai Pe Click!",
+  "description": "Catch the biscuits. Brew the chai. Rule Hyderabad! A fast-paced incremental arcade game inspired by Hyderabad's iconic Osmania biscuits and Irani chai culture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
